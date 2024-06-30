@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saivigneshmn&label=Profile%20views&color=0e75b6&style=flat" alt="saivigneshmn" /> </p>
 
-- 🌱 I’m currently learning **UI/UX**
+- 🌱 I’m currently 
 
 - 📫 How to reach me **saivigneshmn@gmail.com**
 
