@@ -1,46 +1,106 @@
-# Hi there, I'm Macha Naga Sai Vignesh 👋
+# Hey, I'm Macha Naga Sai Vignesh! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=saivigneshmn&label=Profile%20views&color=0e75b6&style=flat)
+💻 **AI Enthusiast | Web Developer | Problem Solver**  
+🎓 Pursuing **Computer Science and Engineering** at **Vellore Institute of Technology**  
+🚀 Building intelligent systems and scalable solutions to solve real-world problems  
 
-## About Me
-- 🎓 College: Chennai
-- 🏠 Hometown: Tirupati
-- 💼 SDE, Analyst, DevOps enthusiast with a focus on BFSI
-- 🚀 Passionate about developing with low code / no code solutions
+---
 
-## What I'm up to
-- 🔭 Working on ML projects and a CV project for a research paper
-- 🌱 Currently diving deep into Deep Learning
-- 💻 Exploring GCP and AWS
+## 🌟 **About Me**
 
-## Skills
-- 💡 Machine Learning
-- 🛡️ Cybersecurity
-- 📊 Data Analysis
-- ☁️ Cloud Platforms (GCP, AWS)
+I'm a passionate **tech enthusiast** with a knack for **AI/ML, web development, and cybersecurity**. I love turning ideas into reality by building innovative projects and solving complex problems. When I'm not coding, you'll find me capturing moments through my lens or exploring the latest advancements in technology.
 
-## My Projects
-- 🤖 Network Intrusion Detection and Prevention (IDP) with Snort Tool
-- 🧠 Deep Learning X Computer Vision | Human Pose Estimation - MobileNet
-- 👁️ Backend for Document Retrieval System for Chat Applications
+---
 
-## Connect with me
-- [Twitter](https://twitter.com/saivigneshmn)
-- [LinkedIn](https://linkedin.com/in/saivigneshmn)
-- [Instagram](https://instagram.com/saivigneshmn)
+## 🛠️ **Tech Stack**
 
-## Coding Profiles
-- [CodeChef](https://www.codechef.com/users/saivigneshmn)
-- [HackerRank](https://www.hackerrank.com/saivigneshmn)
-- [LeetCode](https://www.leetcode.com/saivigneshmn)
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-## GitHub Stats
-![Sai Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saivigneshmn&show_icons=true&theme=radical)
+### **Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saivigneshmn&layout=compact&theme=radical)
+### **Cloud & AI/ML**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-## Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saivigneshmn&theme=radical)
+---
 
-Feel free to reach out for collaborations or just a chat about tech!
+## 🚀 **Featured Projects**
+
+### **1. Network Intrusion Detection with Snort**
+🔒 Built a real-time network monitoring system using **Snort** to detect and block malicious activities.  
+🛠️ **Tech Stack**: Snort, Linux OS, SIEM, Bash  
+
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project-repo)
+
+---
+
+### **2. Document Retrieval System for Chat Apps**
+📂 Developed a backend system to retrieve documents and generate context for LLMs in chat applications.  
+🛠️ **Tech Stack**: FastAPI, MongoDB, Redis, Docker  
+
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project-repo)
+
+---
+
+### **3. Automated Image Captioning in Telugu**
+📸 Created an AI model to generate captions in Telugu for images using **ResNet50** and **LSTM**.  
+🛠️ **Tech Stack**: ResNet50, DCT, LSTM, CNN, NLP  
+
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project-repo)
+
+---
+
+## 💼 **Experience**
+
+### **GenAI Developer @ Infosys Springboard** (Dec 2024 – Present)
+- 🧠 Integrating **Generative AI** into customer support ticketing systems.
+- 🤖 Enhancing automated response generation and ticket classification.
+- 🛠️ **Tech Stack**: Python, NLP, State-of-the-Art Language Models
+
+---
+
+### **Summer Intern @ ModeFin Server** (Aug 2023 – Oct 2023)
+- 🌐 Contributed to web development tasks using **PHP** and **MySQL**.
+- 🚀 Improved web application efficiency and user experience.
+- 🏆 Received a **Certificate of Excellence** for outstanding performance.
+
+---
+
+
+## 🏆 **Certifications**
+
+- **Principles of Generative AI** | Infosys Springboard  
+- **Google Cybersecurity & Data Analytics** | Google Career Certificates  
+- **Software Engineering Virtual Experience** | Goldman Sachs  
+- **Google Cloud IAM and Networking for AWS** | Coursera  
+
+---
+
+## 📊 **GitHub Stats**
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 📫 **Let's Connect!**
+
+📧 **Email**: saivigneshmn@gmail.com  
+🔗 **LinkedIn**: https://www.linkedin.com/in/saivigneshmn/
+🐱 **GitHub**: https://github.com/saivigneshmn
+
+
+---
+
+⭐ **Fun Fact**: I’m a photography enthusiast who believes every picture tells a story!  
