@@ -34,58 +34,6 @@ I'm a passionate **tech enthusiast** with a knack for **AI/ML, web development, 
 
 ---
 
-## 🚀 **Featured Projects**
-
-### **1. Network Intrusion Detection with Snort**
-🔒 Built a real-time network monitoring system using **Snort** to detect and block malicious activities.  
-🛠️ **Tech Stack**: Snort, Linux OS, SIEM, Bash  
-
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project-repo)
-
----
-
-### **2. Document Retrieval System for Chat Apps**
-📂 Developed a backend system to retrieve documents and generate context for LLMs in chat applications.  
-🛠️ **Tech Stack**: FastAPI, MongoDB, Redis, Docker  
-
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project-repo)
-
----
-
-### **3. Automated Image Captioning in Telugu**
-📸 Created an AI model to generate captions in Telugu for images using **ResNet50** and **LSTM**.  
-🛠️ **Tech Stack**: ResNet50, DCT, LSTM, CNN, NLP  
-
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project-repo)
-
----
-
-## 💼 **Experience**
-
-### **GenAI Developer @ Infosys Springboard** (Dec 2024 – Present)
-- 🧠 Integrating **Generative AI** into customer support ticketing systems.
-- 🤖 Enhancing automated response generation and ticket classification.
-- 🛠️ **Tech Stack**: Python, NLP, State-of-the-Art Language Models
-
----
-
-### **Summer Intern @ ModeFin Server** (Aug 2023 – Oct 2023)
-- 🌐 Contributed to web development tasks using **PHP** and **MySQL**.
-- 🚀 Improved web application efficiency and user experience.
-- 🏆 Received a **Certificate of Excellence** for outstanding performance.
-
----
-
-
-## 🏆 **Certifications**
-
-- **Principles of Generative AI** | Infosys Springboard  
-- **Google Cybersecurity & Data Analytics** | Google Career Certificates  
-- **Software Engineering Virtual Experience** | Goldman Sachs  
-- **Google Cloud IAM and Networking for AWS** | Coursera  
-
----
-
 ## 📫 **Let's Connect!**
 
 📧 **Email**: saivigneshmn@gmail.com  
