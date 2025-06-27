@@ -39,7 +39,6 @@ I'm a passionate **tech enthusiast** with a knack for **AI/ML, web development, 
 
 📧 **Email**: saivigneshmn@gmail.com  
 🔗 **LinkedIn**: https://www.linkedin.com/in/saivigneshmn/
-🐱 **GitHub**: https://github.com/saivigneshmn
 
 ---
 
