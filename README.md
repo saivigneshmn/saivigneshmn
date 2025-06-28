@@ -1,7 +1,6 @@
 # Hey, I'm Macha Naga Sai Vignesh! 👋
 
 💻 **AI Enthusiast | Web Developer | Problem Solver**  
-🎓 Pursuing **Computer Science and Engineering** at **Vellore Institute of Technology**  
 🚀 Building intelligent systems and scalable solutions to solve real-world problems  
 
 ---
@@ -37,7 +36,7 @@ I'm a passionate **tech enthusiast** with a knack for **AI/ML, web development, 
 
 ## 📫 **Let's Connect!**
 
-📧 **Email**: saivigneshmn@gmail.com  
+📧 **Email**: saivigneshmacha@gmail.com  
 🔗 **LinkedIn**: https://www.linkedin.com/in/saivigneshmn/
 
 ---
