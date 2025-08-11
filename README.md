@@ -15,7 +15,7 @@
     <a href="mailto:saivigneshmacha@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="YOUR_PORTFOLIO_URL" target="https://mnsv-portfolio.netlify.app/"> <!-- Replace with your deployed portfolio URL -->
+    <a href="https://mnsv-portfolio.netlify.app/" target="https://mnsv-portfolio.netlify.app/"> <!-- Replace with your deployed portfolio URL -->
       <img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
     </a>
   </div>
